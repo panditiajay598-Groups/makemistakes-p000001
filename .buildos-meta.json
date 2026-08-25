@@ -1,0 +1,23 @@
+{
+  "workspaceId": "ws_32212212-eb61-4a26-adb0-715a677462e2",
+  "userId": "panditiajay598@gmail.com",
+  "problemId": "P000001",
+  "key": "panditiajay598@gmail.com__p000001",
+  "template": "beginner-nextjs",
+  "status": "ready",
+  "envChecks": {
+    "node": true,
+    "next": true,
+    "react": true,
+    "typescript": true,
+    "ui": true,
+    "three": true,
+    "data": true,
+    "state": true,
+    "forms": true,
+    "http": true
+  },
+  "lastError": null,
+  "createdAt": "2026-08-15T12:51:14.991Z",
+  "updatedAt": "2026-08-19T11:14:43.110Z"
+}
